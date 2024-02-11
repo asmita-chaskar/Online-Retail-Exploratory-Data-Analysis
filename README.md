@@ -22,8 +22,6 @@ _These packages should already be installed in Jupyter Notebook environment, how
 # Project Objectives
 _Describe data to answer key questions to uncover insights Gain valuable insights that will help improve online retail performance
 Provide analytic insights and data-driven recommendations_
-# Dataset
-_The dataset you will be working with is the "Online Retail" dataset. It contains transactional data of an online retail store from 2010 to 2011. The dataset is available as a .xlsx file named Online Retail.xlsx. This data file is already included in the Coursera Jupyter Notebook environment, however if you are working off-platform it can also be downloaded here :- https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx _
 
 _The dataset contains the following columns:_
 
